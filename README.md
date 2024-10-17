@@ -12,6 +12,10 @@
 
 <img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,express,nestjs,laravel,rails" /> <br /><br />
 
-## DB and Dev Tools etc
+## Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,git,github,githubactions,gitlab,vscode,linux,redhat" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,linux,redhat" /> <br /><br />
+
+## Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode" /> <br /><br />
