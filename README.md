@@ -1,24 +1,17 @@
-### Hi there 👋
+# About Me
 
-<!--
-**piyoraik/piyoraik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm a web infrastructure engineer from Japan
 
-Here are some ideas to get you started:
+2. My favorites are TypeScript, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming Languages
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyoraik&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=piyoraik&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,typescript,php,ruby" /> <br /><br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=piyoraik&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=react,next,vue,nodejs,express,nestjs,laravel,rails" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,git,github,githubactions,gitlab,vscode,linux,redhat" /> <br /><br />
