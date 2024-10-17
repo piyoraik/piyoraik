@@ -14,8 +14,8 @@
 
 ## Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform,docker,kubernetes,linux,redhat" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel,cloudflare,terraform,docker,kubernetes,linux,redhat" /> <br /><br />
 
 ## Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,vscode,yarn" /> <br /><br />
